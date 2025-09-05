@@ -1,0 +1,15 @@
+blank_issues_enabled: false
+contact_links: []
+issue_templates:
+  - name: Bug report
+    file: bug_report.md
+  - name: Feature request
+    file: feature_request.md
+  - name: General question
+    file: general-question.md
+  - name: Performance issue
+    file: performance-issue.md
+  - name: Integration issue
+    file: integration-issue.md
+  - name: User experience feedback
+    file: user-experience-feedback.md
